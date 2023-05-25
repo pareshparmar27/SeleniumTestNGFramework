@@ -1,0 +1,5 @@
+browser: firefox
+application: https://www.saucedemo.com/
+lowWait: 10
+mediumWait: 30
+highWait: 60
